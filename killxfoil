@@ -1,0 +1,3 @@
+#!/bin/bash
+
+while true; do killall xfoil ;sleep 15; done

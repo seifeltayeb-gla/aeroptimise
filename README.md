@@ -22,7 +22,7 @@ Although it is not the fastest option when it comes to such process, MATLAB was 
     1. RMS error between measured performance and objective
     
 # Usage
-1. Download 'xfoil' executable that matches your system from <http://web.mit.edu/drela/Public/web/xfoil/>
+1. Download `xfoil` executable that matches your system from <http://web.mit.edu/drela/Public/web/xfoil/>
     1. For macOS download 'Xfoil.app' and follow this short guide
-1. run 'setup.m' 
+1. run `setup.m` 
 1. 

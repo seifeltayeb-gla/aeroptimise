@@ -22,8 +22,13 @@ Although it is not the fastest option when it comes to such process, MATLAB was 
     1. RMS error between measured performance and objective
     
 # Usage
+1. Download or clone the repository
 1. Download `xfoil` executable that matches your system from <http://web.mit.edu/drela/Public/web/xfoil/>
-    1. For macOS download 'Xfoil.app' and follow this short guide
+    1. For macOS download `Xfoil.app`, Show Package Contents and copy the executable to your working directory
 1. Download the desired airfoil coordinate file or alternatively you can download then extract the full 1550 airfoil [zip archive](http://m-selig.ae.illinois.edu/ads/archives/coord_seligFmt.zip). Make sure that the coordinate files are in the working directory/same folder as the MATLAB scripts
 1. run `setup.m` 
-1. 
+
+`lgenetic12` For Lift optimisation:
+
+
+`ldgenetic12` For Lift and Drag optimisation:

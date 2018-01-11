@@ -20,3 +20,6 @@ Although it is not the fastest option when it comes to such process, MATLAB was 
     1. PARSEC parameters of each generation
     1. measured performance of each generation
     1. RMS error between measured performance and objective
+    
+    # Usage
+    =======
